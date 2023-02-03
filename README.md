@@ -1,4 +1,3 @@
-# Ellipsoid-Fit-with-3D-Point-Cloud
 # Elipsoid-Fit
 Approximate a cloud of points (3D/2D) with the maximum volume inner and minimum volume outer ellipsoid. Also known as the inner and outer [Löwner-John ellipses](https://en.wikipedia.org/wiki/John_ellipsoid). 
 
@@ -21,3 +20,11 @@ Original points in blue, Outer Ellipsoid in Green Wireframe and Inner Ellipsoid 
 
 
 Solution in `max_inner_ellipsoid_v2.py` was inspired by [Hongkai-Dai](https://github.com/hongkai-dai/large_inscribed_ellipsoid)
+
+
+
+
+
+
+
+
